@@ -8,5 +8,8 @@ Git and Github for the Humanities Presentation
 
 - Third Change
 
+Have a nice day!
+
+
 Yay! Changes!
 
